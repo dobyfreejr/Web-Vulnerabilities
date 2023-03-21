@@ -7,8 +7,8 @@
 ### *Web Application 1: Your Wish is My Command Injection*
 
 ### *1.Provide a screenshot confirming that you successfully completed this exploit:*
-![]()
-![]()
+![](https://github.com/dobyfreejr/Web-Vulnerabilities/blob/c1b8ff5921ebbe55cfb05250f0afb471a72084f5/img/One-Picture.png)
+![](https://github.com/dobyfreejr/Web-Vulnerabilities/blob/c1b8ff5921ebbe55cfb05250f0afb471a72084f5/img/One-Picture.png)
 
 ### *2.Write two or three sentences outlining mitigation strategies for this vulnerability:* 
 
@@ -22,11 +22,11 @@
 ### *Web Application 2: A Brute Force to Be Reckoned With*
 
 ### *Provide a screenshot confirming that you successfully completed this exploit:*
-
-
-
-
-
+![](https://github.com/dobyfreejr/Web-Vulnerabilities/blob/c1b8ff5921ebbe55cfb05250f0afb471a72084f5/img/Two-Picture.png)
+![](https://github.com/dobyfreejr/Web-Vulnerabilities/blob/c1b8ff5921ebbe55cfb05250f0afb471a72084f5/img/4-picture.png)
+![](https://github.com/dobyfreejr/Web-Vulnerabilities/blob/c1b8ff5921ebbe55cfb05250f0afb471a72084f5/img/5.png)
+![](https://github.com/dobyfreejr/Web-Vulnerabilities/blob/c1b8ff5921ebbe55cfb05250f0afb471a72084f5/img/6.png)
+![](https://github.com/dobyfreejr/Web-Vulnerabilities/blob/c1b8ff5921ebbe55cfb05250f0afb471a72084f5/img/7png.png)
 
 
 ### *Write two or three sentences outlining mitigation strategies for this vulnerability:* 
@@ -45,18 +45,14 @@
 ### *Web Application 3: Where's the BeEF?*
 
 ### *Provide a screenshot confirming that you successfully completed this exploit:*
-
-
-
-
-
-
-
-
-
-
-
-
+![](https://github.com/dobyfreejr/Web-Vulnerabilities/blob/c1b8ff5921ebbe55cfb05250f0afb471a72084f5/img/8.png)
+![](https://github.com/dobyfreejr/Web-Vulnerabilities/blob/c1b8ff5921ebbe55cfb05250f0afb471a72084f5/img/9.png)
+![](https://github.com/dobyfreejr/Web-Vulnerabilities/blob/c1b8ff5921ebbe55cfb05250f0afb471a72084f5/img/10.png)
+![](https://github.com/dobyfreejr/Web-Vulnerabilities/blob/c1b8ff5921ebbe55cfb05250f0afb471a72084f5/img/11.png)
+![](https://github.com/dobyfreejr/Web-Vulnerabilities/blob/c1b8ff5921ebbe55cfb05250f0afb471a72084f5/img/12.png)
+![](https://github.com/dobyfreejr/Web-Vulnerabilities/blob/c1b8ff5921ebbe55cfb05250f0afb471a72084f5/img/13.png)
+![](https://github.com/dobyfreejr/Web-Vulnerabilities/blob/c1b8ff5921ebbe55cfb05250f0afb471a72084f5/img/14.png)
+![](https://github.com/dobyfreejr/Web-Vulnerabilities/blob/c1b8ff5921ebbe55cfb05250f0afb471a72084f5/img/15.png)
 
 
 ### *Write two or three sentences outlining mitigation strategies for this vulnerability:* 
